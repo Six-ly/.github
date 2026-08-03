@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="96" height="96" alt="Generated image 1 (1)" src="https://github.com/user-attachments/assets/a4af1ff9-ca8b-4318-906d-1dee805794bf" />
+<img width="96" height="96" alt="Sixly" src="https://github.com/user-attachments/assets/5a608c7b-2004-4b37-a641-e5d97d071817" />
 
 # Sixly
 
