@@ -1,14 +1,14 @@
-<div align="center">
+ <div align="center">
 
 <img width="96" height="96" alt="Sixly" src="https://github.com/user-attachments/assets/5a608c7b-2004-4b37-a641-e5d97d071817" />
 
 # Sixly
 
-### Elegant AI tools for modern workflows.
+### Lua & Luau Deobfuscation, Made Simple.
 
-Sixly is a private AI product lab focused on building practical AI tools, prompt systems, and workflow experiences that make everyday work faster, simpler, and smarter.
+**Sixly** is a Lua and Luau deobfuscation project focused on analyzing obfuscated scripts, understanding virtualized code, and making protected code easier to inspect and study.
 
-[Website](https://six-ai.vercel.app/) · [Projects](https://github.com/SixZensED)
+[**Website**](https://sixly.cc) · [**GitHub**](https://github.com/SixZensED)
 
 </div>
 
@@ -16,46 +16,29 @@ Sixly is a private AI product lab focused on building practical AI tools, prompt
 
 ## About
 
-Sixly explores practical ways to use AI in real workflows.
+Sixly explores techniques for reversing Lua and Luau obfuscation, from encoded strings and complex control flow to custom virtual machines and bytecode-based protection.
 
-The project focuses on simple, useful, and polished AI-powered tools for creators, developers, and modern teams. From prompt utilities to automation systems and image-related tools, Sixly is built around one idea: make AI easier to use without making the experience feel complicated.
+Our goal is to make script analysis more approachable with a clean, straightforward experience for developers and reverse-engineering enthusiasts.
 
-## Focus Areas
+## Supported Obfuscators
 
-- AI-powered productivity tools
-- Prompt systems and prompt utilities
-- Workflow automation experiments
-- Image and creative AI tools
-- Web-based AI experiences
-- Clean interfaces for practical daily use
+Sixly focuses on the following obfuscators and protection systems:
 
-## Vision
+| Obfuscator | Version |
+| :--- | :--- |
+| MoonVeil | — |
+| WeAreDevs | — |
+| LuaObfuscator | — |
+| Clyde Protection | V2, V3 |
+| MoonSec | V2, V3 |
+| IronBrew | V2 |
+| 25ms | — |
+| Mercury | — |
+| Neutron | 2.5 |
 
-Sixly aims to become a focused collection of intelligent tools that help people move from idea to result faster.
+> **Note:** Deobfuscation results can vary depending on the protection version, script structure, and techniques used.
 
-The goal is not to make AI feel bigger or more complicated. The goal is to make AI feel useful, elegant, and easy to reach.
+## What We Focus On
 
-## Website
-
-Visit the Sixly website:
-
-https://six-ai.vercel.app/
-
-## Status
-
-Sixly is currently in active development.
-
-New tools, experiments, and product ideas are being shaped around practical AI use cases, modern web workflows, and creator-focused experiences.
-
-## Brand
-
-The Sixly identity uses a minimal orbit-inspired mark to represent motion, speed, and intelligent workflow loops.
-
----
-
-<div align="center">
-
-**Sixly**  
-Elegant AI tools for modern workflows.
-
-</div>
+- **String Decoding** — Recovering readable strings and constants from encoded data.
+- **Control
